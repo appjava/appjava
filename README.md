@@ -11,6 +11,7 @@
 </ul>
 <!--<img style="width: 75%;margin: 0 auto;" src="stats.png" alt="meStats">-->
 [Personal Web](https://appjava.pages.dev/)
+
 ---
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 100%;" src="foot.png" alt="meBrand">
