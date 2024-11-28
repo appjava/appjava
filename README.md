@@ -4,7 +4,7 @@
            margin-left: auto;
            margin-right: auto;
            width: 100%;"
-    src="header.png" 
+    src="Header.png" 
     alt="meBrand">
 </img>
 <!--## Hi there 👋-->
