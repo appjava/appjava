@@ -13,6 +13,8 @@
 
 <a href="https://appjava.pages.dev/" target="_blank">Personal Web</a>
 
+[![appjava's GitHub stats](https://github-readme-stats.vercel.app/api?username=appjava)](https://github.com/appjava/github-readme-stats)
+
 ---
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 100%;" src="foot.png" alt="meBrand">
