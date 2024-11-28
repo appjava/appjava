@@ -13,7 +13,7 @@
 <li> 🤔 Relevant experience: +10 years as a mechanical design engineer <a href="https://ingjava.web.app/" target="_blank">IngJAVA</a></li>
 </ul>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=domohome)](https://github.com/appjava/domohome) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=solarpersonalapp)](https://github.com/appjava/solarpersonalapp) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=domohome&show_owner=true)](https://github.com/appjava/domohome) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=solarpersonalapp)](https://github.com/appjava/solarpersonalapp) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=signal)](https://github.com/appjava/signal) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=solarpersonalapp)](https://github.com/appjava/solarpersonalapp) 
 
