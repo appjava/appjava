@@ -1,6 +1,6 @@
 ![Header](header.png)
 
-## Hi there 👋
+<!--## Hi there 👋-->
 
 - 🔭 I’m currently working on IoT Projects
 - 🌱 I’m currently learning Python and C
