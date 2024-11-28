@@ -15,6 +15,7 @@
 
 [![appjava's GitHub stats](https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&theme=transparent)](https://github.com/appjava/github-readme-stats)
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/appjava/bbfce31e0217a3689c8d961a356cb10d/)
 ---
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 100%;" src="foot.png" alt="meBrand">
