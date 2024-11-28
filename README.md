@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-![Header](header.png)
-</div>
+<div style="text-align: center;">![Header](header.png)</div>
 <!--## Hi there 👋-->
 
 - 🔭 I’m currently working on IoT Projects
