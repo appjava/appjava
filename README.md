@@ -3,15 +3,14 @@
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           border-radius: 60px;
            width: 100%;"
     src="head.png" 
     alt="meBrand">
 </img>
 <!--## Hi there 👋-->
 ---
-<div style="display: flex; width: 40%; flex-direction: row; ">
-    <div style="width: 40%; background: yellow;">
+<div style="display: flex; flex-direction: row; ">
+    <div style="width: 40%; background-color: #000;">
     - 🔭 I’m currently working on IoT Projects
     - 🌱 I’m currently learning Python and C
     - 👯 I’m looking to collaborate on Mechatronic Projects
