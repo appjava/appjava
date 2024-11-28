@@ -1,4 +1,12 @@
-<div style="text-align: center;">![Header](header.png)</div>
+<!--![Header](header.png)-->
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 100%;"
+    src="header.png" 
+    alt="meBrand">
+</img>
 <!--## Hi there 👋-->
 
 - 🔭 I’m currently working on IoT Projects
