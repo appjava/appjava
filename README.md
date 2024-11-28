@@ -3,7 +3,7 @@
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           border-radius: 6px;
+           border-radius: 30px;
            width: 100%;"
     src="Header.png" 
     alt="meBrand">
