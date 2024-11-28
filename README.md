@@ -5,7 +5,7 @@
            margin-right: auto;
            border-radius: 60px;
            width: 100%;"
-    src="Header.png" 
+    src="head.png" 
     alt="meBrand">
 </img>
 <!--## Hi there 👋-->
