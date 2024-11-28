@@ -11,14 +11,13 @@
 <li> 💬 Ask me about Arduino and ESP ideas</li>
 <li> 📫 How to reach me: projects.appjavadev@gmail.com</li>
 <li> 🤔 Relevant experience: +10 years as a mechanical design engineer <a href="https://ingjava.web.app/" target="_blank">IngJAVA</a></li>
-</ul>
+</ul> [![appjava's GitHub stats](https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&theme=transparent)](https://github.com/appjava/appjava)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=domohome)](https://github.com/appjava/domohome) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=solarpersonalapp)](https://github.com/appjava/solarpersonalapp) 
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=signal)](https://github.com/appjava/signal)-->
+
 <!--<img style="width: 75%;margin: 0 auto;" src="stats.png" alt="meStats">-->
-
-[![appjava's GitHub stats](https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&theme=transparent)](https://github.com/appjava/appjava)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=domohome)](https://github.com/appjava/domohome) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=solarpersonalapp)](https://github.com/appjava/solarpersonalapp) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=signal)](https://github.com/appjava/signal)
-
-
 ---
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 100%;" src="foot.png" alt="meBrand">
