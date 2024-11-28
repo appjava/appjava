@@ -11,7 +11,9 @@
 <li> 💬 Ask me about Arduino and ESP ideas</li>
 <li> 📫 How to reach me: projects.appjavadev@gmail.com</li>
 <li> 🤔 Relevant experience: +10 years as a mechanical design engineer <a href="https://ingjava.web.app/" target="_blank">IngJAVA</a></li>
-</ul> [![appjava's GitHub stats](https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&theme=transparent)](https://github.com/appjava/appjava)
+</ul>
+
+[![appjava's GitHub stats](https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&theme=transparent)](https://github.com/appjava/appjava)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=domohome)](https://github.com/appjava/domohome) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=solarpersonalapp)](https://github.com/appjava/solarpersonalapp) 
 
