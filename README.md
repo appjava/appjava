@@ -9,7 +9,7 @@
 - 💬 Ask me about Arduino and ESP ideas
 - 📫 How to reach me: projects.appjavadev@gmail.com
 
-<img style="width: 40%;margin-left: 0;" src="stats.png" alt="meStats">
+<img style="width: 100%;margin-left: auto;margin-right: auto;" src="stats.png" alt="meStats">
 
 ---
 
