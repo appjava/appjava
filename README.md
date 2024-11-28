@@ -9,7 +9,7 @@
     alt="meBrand">
 </img>
 <!--## Hi there 👋-->
---
+---
 
 - 🔭 I’m currently working on IoT Projects
 - 🌱 I’m currently learning Python and C
@@ -18,12 +18,13 @@
 - 💬 Ask me about Arduino and ESP ideas
 - 📫 How to reach me: projects.appjavadev@gmail.com
 
---
+---
+
 <img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
            width: 100%;"
-    src="footer.png" 
+    src="foot.png" 
     alt="meBrand">
 </img>
