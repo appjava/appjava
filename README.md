@@ -11,7 +11,7 @@
 </ul>
 <!--<img style="width: 75%;margin: 0 auto;" src="stats.png" alt="meStats">-->
 
-![Personal Web](https://appjava.pages.dev/)
+<a href="https://appjava.pages.dev/">Personal Web</a>
 
 ---
 
