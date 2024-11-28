@@ -8,6 +8,7 @@
 <li> 🤔 I’m looking for help with Machine Learning</li>
 <li> 💬 Ask me about Arduino and ESP ideas</li>
 <li> 📫 How to reach me: projects.appjavadev@gmail.com</li>
+<li> 🤔 Relevant experience: +10 years as a mechanical design engineer</li>
 </ul>
 <!--<img style="width: 75%;margin: 0 auto;" src="stats.png" alt="meStats">-->
 
