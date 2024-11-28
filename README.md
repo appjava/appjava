@@ -10,7 +10,7 @@
 <li> 📫 How to reach me: projects.appjavadev@gmail.com</li>
 </ul>
 <!--<img style="width: 75%;margin: 0 auto;" src="stats.png" alt="meStats">-->
-[Personal Web](https://appjava.pages.dev/)
+![Personal Web](https://appjava.pages.dev/)
 
 ---
 
