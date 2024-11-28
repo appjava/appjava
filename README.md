@@ -13,7 +13,7 @@
 
 <a href="https://appjava.pages.dev/" target="_blank">Personal Web</a>
 
-[![appjava's GitHub stats](https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues)](https://github.com/appjava/github-readme-stats)
+[![appjava's GitHub stats](https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true)](https://github.com/appjava/github-readme-stats)
 
 ---
 
