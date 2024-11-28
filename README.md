@@ -10,21 +10,18 @@
 </img>
 <!--## Hi there 👋-->
 ---
+<div style="display: flexbox;
+           width: 40%;">
+    <div style="width: 40%;">
+    - 🔭 I’m currently working on IoT Projects
+    - 🌱 I’m currently learning Python and C
+    - 👯 I’m looking to collaborate on Mechatronic Projects
+    - 🤔 I’m looking for help with Machine Learning
+    - 💬 Ask me about Arduino and ESP ideas
+    - 📫 How to reach me: projects.appjavadev@gmail.com
+    </div>
 <div>
-<div>
-- 🔭 I’m currently working on IoT Projects
-- 🌱 I’m currently learning Python and C
-- 👯 I’m looking to collaborate on Mechatronic Projects
-- 🤔 I’m looking for help with Machine Learning
-- 💬 Ask me about Arduino and ESP ideas
-- 📫 How to reach me: projects.appjavadev@gmail.com
-</div>
-<div>
-    <img style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           border-radius: 60px;
-           width: 100%;"
+    <img style="width: 40%;"
     src="stats.png" 
     alt="meStats">
 </img>
