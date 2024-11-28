@@ -1,12 +1,5 @@
 <!--![Header](header.png)-->
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 100%;"
-    src="head.png" 
-    alt="meBrand">
-</img>
+<img style="display: block; margin-left: auto;margin-right: auto;width: 100%;" src="head.png" alt="meBrand">
 <!--## Hi there 👋-->
 ---
 <div style="display: flex; flex-direction: row; ">
@@ -19,19 +12,10 @@
     - 📫 How to reach me: projects.appjavadev@gmail.com
     </div>
     <div>
-        <img style="width: 40%;"
-        src="stats.png" 
-        alt="meStats">
-        </img>
+        <img style="width: 40%;" src="stats.png" alt="meStats">
     </div>
 </div>
+
 ---
 
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 100%;"
-    src="foot.png" 
-    alt="meBrand">
-</img>
+<img style="display: block; margin-left: auto; margin-right: auto; width: 100%;" src="foot.png" alt="meBrand">
