@@ -1,7 +1,7 @@
 <img style="display: block; margin-left: auto;margin-right: auto;width: 100%;" src="head.png" alt="meBrand">
 
 ---
-<ul>
+<ul style="color: red;">
 <li> 🔭 I’m currently working on IoT Projects</li>
 <li> 🌱 I’m currently learning Python and C</li>
 <li> 👯 I’m looking to collaborate on Mechatronic Projects</li>
