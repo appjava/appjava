@@ -12,7 +12,7 @@
         - 📫 How to reach me: projects.appjavadev@gmail.com
     </div>
     <div>
-        <img style="width: 40%;" src="stats.png" alt="meStats">
+        <img style="width: 40%;margin-left: auto;margin-right: auto;" src="stats.png" alt="meStats">
     </div>
 </div>
 
