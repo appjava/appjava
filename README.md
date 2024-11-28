@@ -15,7 +15,7 @@
 
 [![appjava's GitHub stats](https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&theme=transparent)](https://github.com/appjava/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=github-readme-stats)](https://github.com/appjava/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=domohome)](https://github.com/appjava/github-readme-stats)
 
 ---
 
