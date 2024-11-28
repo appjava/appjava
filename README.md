@@ -3,6 +3,7 @@
 ---
 
 <div style="display: flex; flex-direction: row; ">
+    
     <div style="width: 40%; background-color: #000;">
         - 🔭 I’m currently working on IoT Projects
         - 🌱 I’m currently learning Python and C
@@ -11,9 +12,11 @@
         - 💬 Ask me about Arduino and ESP ideas
         - 📫 How to reach me: projects.appjavadev@gmail.com
     </div>
+    
     <div>
         <img style="width: 40%;margin-left: auto;margin-right: auto;" src="stats.png" alt="meStats">
     </div>
+    
 </div>
 
 ---
