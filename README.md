@@ -17,6 +17,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=domohome)](https://github.com/appjava/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=solarpersonalapp)](https://github.com/appjava/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=signal)](https://github.com/appjava/github-readme-stats)
+
+
 ---
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 100%;" src="foot.png" alt="meBrand">
