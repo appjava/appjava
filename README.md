@@ -17,7 +17,7 @@
 
 <!--height="180em" width="350px"-->
 <!--[![appjava's GitHub stats](https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=true&theme=transparent)](https://github.com/appjava/appjava)-->
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appjava&show_icons=true&hide_border=false&layout=compact&langs_count=8"/> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=false&theme=transparent"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appjava&show_icons=true&hide_border=false&layout=compact&langs_count=8"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=false&theme=transparent"/>
 <!--<img style="width: 75%;margin: 0 auto;" src="stats.png" alt="meStats">-->
 
 ## Principal Repos
