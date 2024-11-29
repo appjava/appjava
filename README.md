@@ -3,6 +3,9 @@
 <a href="https://appjava.pages.dev/" target="_blank">Personal Web</a>
 
 ---
+
+## About me
+
 <ul>
 <li> 🔭 I’m currently working on IoT Projects</li>
 <li> 🌱 I’m learning Python and C</li>
