@@ -16,13 +16,12 @@
 ## My Stats
 
 <!--[![appjava's GitHub stats](https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=true&theme=transparent)](https://github.com/appjava/appjava)-->
-<img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appjava&show_icons=true&hide_border=false&layout=compact&langs_count=8"/> <img height="180em" width="450px" margin-left="auto" margin-rigth="auto" src="https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=false&theme=transparent"/>
+<img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appjava&show_icons=true&hide_border=false&layout=compact&langs_count=8"/> <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=false&theme=transparent"/>
 <!--<img style="width: 75%;margin: 0 auto;" src="stats.png" alt="meStats">-->
 
 ## Principal Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=domohome&show_owner=false)](https://github.com/appjava/domohome) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=solarpersonalapp&show_owner=false)](https://github.com/appjava/solarpersonalapp) 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=signal&show_owner=false)](https://github.com/appjava/signal) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=echoprojects3d&show_owner=false)](https://github.com/appjava/echoprojects3d) 
 
 ---
