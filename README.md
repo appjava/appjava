@@ -20,7 +20,7 @@
 
 <!--height="180em" width="350px"-->
 <!--[![appjava's GitHub stats](https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=true&theme=transparent)](https://github.com/appjava/appjava)-->
-<div margin="0 auto" text-align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appjava&show_icons=true&hide_border=false&layout=compact&langs_count=8"/> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=false&theme=transparent"/></div>
+<div margin="0 auto" text-align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appjava&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=true&theme=transparent"/></div>
 <!--<img style="width: 75%;margin: 0 auto;" src="stats.png" alt="meStats">-->
 
 ## My Skills
@@ -33,7 +33,8 @@
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)]()
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Raspberry Pi](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+<!--![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)-->
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
