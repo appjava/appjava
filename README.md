@@ -2,7 +2,7 @@
 
 ---
 
-## About me <a href="https://appjava.pages.dev/" target="_blank">[Personal Web]</a>
+## About me 
 
 <ul>
 <li> 🔭 I’m currently working on IoT Projects</li>
@@ -13,6 +13,8 @@
 <li> 📫 How to reach me: projects.appjavadev@gmail.com</li>
 <li> ⭐ Relevant experience: +10 years as a mechanical design engineer <a href="https://ingjava.web.app/" target="_blank">[ING_CV]</a></li>
 </ul>
+
+### <a href="https://appjava.pages.dev/" target="_blank">[Personal Web]</a>
 
 ## Stats
 
