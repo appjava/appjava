@@ -1,7 +1,7 @@
 <img style="display: block; margin-left: auto;margin-right: auto;width: 100%;" src="head.png" alt="meBrand">
 
 ---
-![](https://komarev.com/ghpvc/?username=appjava)
+![](https://komarev.com/ghpvc/?username=appjavadev&color=orange)
 ## About me 
 
 <ul>
