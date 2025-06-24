@@ -20,7 +20,9 @@
 
 <!--height="180em" width="350px"-->
 <!--[![appjava's GitHub stats](https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=true&theme=transparent)](https://github.com/appjava/appjava)-->
-<div margin="0 auto" text-align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appjava&show_icons=true&hide_border=true&layout=compact&langs_count=6"/> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=false&theme=transparent"/></div>
+
+<div margin="0 auto" text-align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appjava&show_icons=true&hide_border=true&layout=compact&langs_count=6"/> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=true&theme=transparent"/></div>
+
 <!--<img style="width: 75%;margin: 0 auto;" src="stats.png" alt="meStats">-->
 
 ## Skills
