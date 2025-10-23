@@ -14,7 +14,9 @@
 <li> ⭐ Relevant experience: +10 years as a mechanical design engineer <a href="https://ingjava.web.app/" target="_blank">[ING_CV]</a></li>
 </ul>
 
-### <a href="https://appjava.pages.dev/" target="_blank">[Personal Web]</a> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N61N8G8Z)
+### <a href="https://appjava.pages.dev/" target="_blank">[Personal Web]</a> 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N61N8G8Z)
 
 ## Stats
 
