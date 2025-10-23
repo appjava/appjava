@@ -71,7 +71,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=simple3d&show_owner=false&hide_border=true)](https://github.com/appjava/simple3d) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=solarpersonalapp&show_owner=false&hide_border=false)](https://github.com/appjava/solarpersonalapp) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=metv&show_owner=false&hide_border=false)](https://github.com/appjava/metv) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=echoprojects3d&show_owner=false&hide_border=true)](https://github.com/appjava/echoprojects3d) 
 
-![](https://komarev.com/ghpvc/?username=appjava&color=lightgrey) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N61N8G8Z)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N61N8G8Z)
+
+![](https://komarev.com/ghpvc/?username=appjava&color=lightgrey) 
 ---
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 100%;" src="foot.png" alt="meBrand">
