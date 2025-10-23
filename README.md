@@ -16,6 +16,8 @@
 
 ### <a href="https://appjava.pages.dev/" target="_blank">[Personal Web]</a>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N61N8G8Z)
+
 ## Stats
 
 <!--height="180em" width="350px"-->
