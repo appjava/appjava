@@ -14,7 +14,7 @@
 <li> ⭐ Relevant experience: +10 years as a mechanical design engineer <a href="https://ingjava.web.app/" target="_blank">[ING_CV]</a></li>
 </ul>
 
-### <a href="https://appjava.pages.dev/" target="_blank">[Personal Web]</a>
+### <a href="https://appjava.pages.dev/" target="_blank">[Personal Web]</a> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N61N8G8Z)
 
 ## Stats
 
@@ -71,7 +71,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=simple3d&show_owner=false&hide_border=true)](https://github.com/appjava/simple3d) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=solarpersonalapp&show_owner=false&hide_border=false)](https://github.com/appjava/solarpersonalapp) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=metv&show_owner=false&hide_border=false)](https://github.com/appjava/metv) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=echoprojects3d&show_owner=false&hide_border=true)](https://github.com/appjava/echoprojects3d) 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N61N8G8Z)
 
 ![](https://komarev.com/ghpvc/?username=appjava&color=lightgrey) 
 ---
