@@ -22,9 +22,9 @@
 
 <!--height="180em" width="350px"-->
 <!--[![appjava's GitHub stats](https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=true&theme=transparent)](https://github.com/appjava/appjava)-->
-
+<!--
 <div margin="0 auto" text-align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appjava&show_icons=true&hide_border=true&layout=compact&langs_count=6"/> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=true&theme=transparent"/></div>
-
+-->
 <!--<img style="width: 75%;margin: 0 auto;" src="stats.png" alt="meStats">-->
 
 ## Skills
@@ -68,11 +68,11 @@
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
-
+<!--
 ## Principal Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=simple3d&show_owner=false&hide_border=true)](https://github.com/appjava/simple3d) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=solarpersonalapp&show_owner=false&hide_border=false)](https://github.com/appjava/solarpersonalapp) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=metv&show_owner=false&hide_border=false)](https://github.com/appjava/metv) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=echoprojects3d&show_owner=false&hide_border=true)](https://github.com/appjava/echoprojects3d) 
-
+-->
 
 ![](https://komarev.com/ghpvc/?username=appjava&color=lightgrey) 
 ---
