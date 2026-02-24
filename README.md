@@ -1,3 +1,11 @@
+<style>
+  p {
+  margin-bottom: 1em;
+  line-height: 1.7;
+  color: #2c3e50;
+}
+</style>
+
 <img style="display: block; margin-left: auto;margin-right: auto;width: 100%;" src="head.png" alt="meBrand">
 
 ---
@@ -5,7 +13,7 @@
 ## About me 
 
 <ul>
-<p style="color:red;">🔭 I’m currently working on IoT Projects</p>
+<p>🔭 I’m currently working on IoT Projects</p>
 <p>🌱 I’m learning Python and C</p>
 <p>👨‍🏭 I’m searching to collaborate on Mechatronic Projects</p>
 <p>🤔 I’m looking for help with Machine Learning</p>
