@@ -16,7 +16,6 @@
 
 | 📫 **Reach me** | [**projects.appjavadev@gmail.com**](mailto:projects.appjavadev@gmail.com) |
 | :--- | :--- |
-| 📫 **Reach me** | [**projects.appjavadev@gmail.com**](mailto:projects.appjavadev@gmail.com) |
 | ⭐ **Experience** | **+10 years** as mechanical design engineer [**[ING_CV]**](https://ingjava.web.app) |
 
 
