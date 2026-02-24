@@ -8,6 +8,8 @@
 
 ![Python](https://img.shields.io/badge/🌱_I’m_learning-Python_and_C-green)
 
+![Mechatronics](https://img.shields.io/badge/👨‍🏭_I’m_searching_to_collaborate_on-Mechatronic_Projects-yellow)
+
 | Meta | Status |
 | :--- | :--- |
 | 🔭 **Working on** | ![IoT](https://img.shields.io/badge/🔭_I’m_currently_working_on-IoT-blue) |
