@@ -7,16 +7,11 @@
 <ul>
 <p>🔭 I’m currently working on IoT Projects</p>
 <p>🌱 I’m learning Python and C</p>
-
-👯 I’m searching to collaborate on Mechatronic Projects
-
-🤔 I’m looking for help with Machine Learning
-
-💬 Ask me about Arduino and ESP ideas
-
-📫 How to reach me: projects.appjavadev@gmail.com
-
-⭐ Relevant experience: +10 years as a mechanical design engineer <a href="https://ingjava.web.app/" target="_blank">[ING_CV]</a>
+<p>👨‍🏭 I’m searching to collaborate on Mechatronic Projects</p>
+<p>🤔 I’m looking for help with Machine Learning</p>
+<p>💬 Ask me about Arduino and ESP ideas</p>
+<p>📫 How to reach me: projects.appjavadev@gmail.com</p>
+<p>⭐ Relevant experience: +10 years as a mechanical design engineer <a href="https://ingjava.web.app/" target="_blank">[ING_CV]</a></p>
 </ul>
 
 ### <a href="https://appjava.pages.dev/" target="_blank">[Personal Web]</a> 
