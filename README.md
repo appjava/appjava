@@ -14,12 +14,11 @@
 
 ![Electronics](https://img.shields.io/badge/Ask_me_about-Arduino/ESP-black)
 
+
 | Meta | Status |
 | :--- | :--- |
 | 📫 **Reach me** | [**projects.appjavadev@gmail.com**](mailto:projects.appjavadev@gmail.com) |
-| ⭐ **Experience** | **+10 years** as mechanical design engineer |
-
-[**[ING_CV]**](https://ingjava.web.app)
+| ⭐ **Experience** | **+10 years** as mechanical design engineer [**[ING_CV]**](https://ingjava.web.app) |
 
 
 ### <a href="https://appjava.pages.dev/" target="_blank">[Personal Web]</a> 
