@@ -7,7 +7,7 @@
 
 | Meta | Status |
 | :--- | :--- |
-| 🔭 **Working on** | ![IoT](https://img.shields.io) |
+| 🔭 **Working on** | ![IoT](https://img.shields.io/badge/any_text-you_like-blue) |
 | 🌱 **Learning** | ![Python](https://img.shields.io) |
 | 👨‍🏭 **Collaborating** | ![Mechatronics](https://img.shields.io) |
 | 🤔 **Help with** | ![ML](https://img.shields.io) |
