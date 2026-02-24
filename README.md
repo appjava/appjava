@@ -10,6 +10,8 @@
 
 ![Mechatronics](https://img.shields.io/badge/I’m_searching_to_collaborate_on-Mechatronic_Projects-yellow)
 
+![ML](https://img.shields.io/badge/_I’m_looking_for_help_with_-_Machine_Learning_-purple)
+
 | Meta | Status |
 | :--- | :--- |
 | 🔭 **Working on** | ![IoT](https://img.shields.io/badge/🔭_I’m_currently_working_on-IoT-blue) |
