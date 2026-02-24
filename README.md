@@ -5,7 +5,7 @@
 ## About me 
 
 <ul>
-<p>🔭 I’m currently working on **IoT Projects**</p>
+- 🔭 I’m currently working on **IoT Projects**
 <p>🌱 I’m learning Python and C</p>
 <p>👨‍🏭 I’m searching to collaborate on Mechatronic Projects</p>
 <p>🤔 I’m looking for help with Machine Learning</p>
