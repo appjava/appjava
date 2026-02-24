@@ -6,11 +6,17 @@
 
 <ul>
 🔭 I’m currently working on IoT Projects
+  
 🌱 I’m learning Python and C
+
 👯 I’m searching to collaborate on Mechatronic Projects
+
 🤔 I’m looking for help with Machine Learning
+
 💬 Ask me about Arduino and ESP ideas
+
 📫 How to reach me: projects.appjavadev@gmail.com
+
 ⭐ Relevant experience: +10 years as a mechanical design engineer <a href="https://ingjava.web.app/" target="_blank">[ING_CV]</a>
 </ul>
 
