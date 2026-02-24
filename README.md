@@ -4,11 +4,11 @@
 
 ## About me
 
-🔭 ![IoT](https://img.shields.io/badge/I’m_currently_working_on-IoT_Projects-blue)
+![IoT](https://img.shields.io/badge/I’m_currently_working_on-IoT_Projects-blue) 🔭
 
-🌱 ![Python](https://img.shields.io/badge/I’m_learning-Python_and_C-green)
+![Python](https://img.shields.io/badge/I’m_learning-Python_and_C-green) 🌱
 
-👨‍🏭 ![Mechatronics](https://img.shields.io/badge/I’m_searching_to_collaborate_on-Mechatronic_Projects-yellow)
+![Mechatronics](https://img.shields.io/badge/I’m_searching_to_collaborate_on-Mechatronic_Projects-yellow) 👨‍🏭
 
 | Meta | Status |
 | :--- | :--- |
