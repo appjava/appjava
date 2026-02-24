@@ -5,9 +5,8 @@
 ## About me 
 
 <ul>
-🔭 I’m currently working on IoT Projects
-  
-🌱 I’m learning Python and C
+<p>🔭 I’m currently working on IoT Projects</p>
+<p>🌱 I’m learning Python and C</p>
 
 👯 I’m searching to collaborate on Mechatronic Projects
 
