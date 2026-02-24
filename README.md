@@ -5,7 +5,7 @@
 ## About me 
 
 <ul>
-<p style="color:blue;">🔭 I’m currently working on IoT Projects</p>
+<p style="color:#00ff00;">🔭 I’m currently working on IoT Projects</p>
 <p>🌱 I’m learning Python and C</p>
 <p>👨‍🏭 I’m searching to collaborate on Mechatronic Projects</p>
 <p>🤔 I’m looking for help with Machine Learning</p>
