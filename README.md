@@ -2,7 +2,7 @@
 
 ---
 
-## About me
+## About me [**[Personal Web]**]([https://ingjava.web.app](https://appjava.pages.dev))
 
 ![IoT](https://img.shields.io/badge/I’m_currently_working_on-IoT_Projects-blue)
 
@@ -19,7 +19,7 @@
 | ⭐ | **+10 years** as mechanical design engineer [**[ING_CV]**](https://ingjava.web.app) |
 
 
-### <a href="https://appjava.pages.dev/" target="_blank">[Personal Web]</a> 
+<!--### <a href="https://appjava.pages.dev/" target="_blank">[Personal Web]</a>-->
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N61N8G8Z)
 
