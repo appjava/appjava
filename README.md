@@ -2,7 +2,7 @@
 
 ---
 
-## About me [**[Personal Web]**](https://appjava.pages.dev)
+## About me ###[**[Personal Web]**](https://appjava.pages.dev)
 
 ![IoT](https://img.shields.io/badge/I’m_currently_working_on-IoT_Projects-blue)
 
