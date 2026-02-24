@@ -8,9 +8,11 @@
 
 ![Python](https://img.shields.io/badge/I’m_learning-Python_and_C-green)
 
-![Mechatronics](https://img.shields.io/badge/I’m_searching_to_collaborate_on-Mechatronic_Projects-yellow)
+![Mechatronics](https://img.shields.io/badge/I’m_searching_to_collaborate_on-Mechatronic_Projects-orange)
 
-![ML](https://img.shields.io/badge/_I’m_looking_for_help_with_-_Machine_Learning_-purple)
+![ML](https://img.shields.io/badge/I’m_looking_for_help_with-Machine_Learning-purple)
+
+![Electronics](https://img.shields.io/badge/Ask_me_about-Arduino/ESP-black)
 
 | Meta | Status |
 | :--- | :--- |
