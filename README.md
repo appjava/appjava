@@ -4,6 +4,7 @@
 
 ## About me
 
+![IoT](https://img.shields.io/badge/🔭_I’m_currently_working_on-IoT-blue)
 
 | Meta | Status |
 | :--- | :--- |
