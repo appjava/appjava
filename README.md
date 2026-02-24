@@ -68,11 +68,11 @@
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
-
+<!--
 ## Principal Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=simple3d&show_owner=false&hide_border=true)](https://github.com/appjava/simple3d) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=solarpersonalapp&show_owner=false&hide_border=false)](https://github.com/appjava/solarpersonalapp) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=metv&show_owner=false&hide_border=false)](https://github.com/appjava/metv) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appjava&repo=echoprojects3d&show_owner=false&hide_border=true)](https://github.com/appjava/echoprojects3d) 
-
+-->
 
 ![](https://komarev.com/ghpvc/?username=appjava&color=lightgrey) 
 ---
