@@ -23,7 +23,7 @@
 <!--height="180em" width="350px"-->
 <!--[![appjava's GitHub stats](https://github-readme-stats.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=true&theme=transparent)](https://github.com/appjava/appjava)-->
 
-<div margin="0 auto" text-align="center"><img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=appjava&show_icons=true&hide_border=true&layout=compact&langs_count=6"/> <img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=true&theme=transparent"/></div>
+<div margin="0 auto" text-align="center"><img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=appjava&show_icons=true&hide_border=true&&theme=transparent&layout=compact&langs_count=6"/> <img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=appjava&hide=contribs,prs,issues&show_icons=true&hide_border=true&theme=transparent"/></div>
 
 <!-- src="https://github-readme-stats.vercel.app/api/top-langs/?username=appjava&show_icons=true&hide_border=true&layout=compact&langs_count=6"-->
 <!-- src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=appjava&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact"-->
