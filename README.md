@@ -5,6 +5,7 @@
 ## About me
 
 ![IoT](https://img.shields.io/badge/🔭_I’m_currently_working_on-IoT_Projects-blue)
+
 ![Python](https://img.shields.io/badge/🌱_I’m_learning-Python_and_C-green)
 
 | Meta | Status |
