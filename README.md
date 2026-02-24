@@ -16,11 +16,6 @@
 
 | Meta | Status |
 | :--- | :--- |
-| 🔭 **Working on** | ![IoT](https://img.shields.io/badge/🔭_I’m_currently_working_on-IoT-blue) |
-| 🌱 **Learning** | ![Python](https://img.shields.io) |
-| 👨‍🏭 **Collaborating** | ![Mechatronics](https://img.shields.io) |
-| 🤔 **Help with** | ![ML](https://img.shields.io) |
-| 💬 **Ask me** | ![Electronics](https://img.shields.io) |
 | 📫 **Reach me** | [**projects.appjavadev@gmail.com**](mailto:projects.appjavadev@gmail.com) |
 | ⭐ **Experience** | **+10 years** as mechanical design engineer |
 
