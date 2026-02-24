@@ -14,7 +14,7 @@
 
 ![Electronics](https://img.shields.io/badge/Ask_me_about-Arduino/ESP-red)
 
-| Meta | Status |
+| 📫 **Reach me** | [**projects.appjavadev@gmail.com**](mailto:projects.appjavadev@gmail.com) |
 | :--- | :--- |
 | 📫 **Reach me** | [**projects.appjavadev@gmail.com**](mailto:projects.appjavadev@gmail.com) |
 | ⭐ **Experience** | **+10 years** as mechanical design engineer [**[ING_CV]**](https://ingjava.web.app) |
