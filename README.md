@@ -12,10 +12,9 @@
 
 ![ML](https://img.shields.io/badge/I’m_looking_for_help_with-Machine_Learning-purple)
 
-![Electronics](https://img.shields.io/badge/Ask_me_about-Arduino/ESP-black)
+![Electronics](https://img.shields.io/badge/Ask_me_about-Arduino/ESP-pink)
 
 
-| Meta | Status |
 | :--- | :--- |
 | 📫 **Reach me** | [**projects.appjavadev@gmail.com**](mailto:projects.appjavadev@gmail.com) |
 | ⭐ **Experience** | **+10 years** as mechanical design engineer [**[ING_CV]**](https://ingjava.web.app) |
